@@ -1,0 +1,4 @@
+# python virtualenv directories and files
+Lib/*
+Scripts/*
+pyvenv.cfg
