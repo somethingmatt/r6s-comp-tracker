@@ -7,5 +7,3 @@
 - Python 3+
 - requests
 - BeautifulSoup4
-
-`py -m pip install -r requirements.txt`
