@@ -4,9 +4,9 @@
  - using liquipedia as source
  - switching to firebase with firestore
  - discarding main.py
-  - data handling via handler.py
-  - data scraping via scraper.py
-  - authentication, validation and notifications coming soon
+   - data handling via handler.py
+   - data scraping via scraper.py
+   - authentication, validation and notifications coming soon
 
 # r6s-comp-tracker
 
@@ -18,4 +18,4 @@
 - requests
 - BeautifulSoup4
 - Firebase (Spark-Plan is enough)
- - alternatively supabase or appwrite
+  - alternatively supabase or appwrite
